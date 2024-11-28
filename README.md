@@ -1,4 +1,4 @@
-<h2>🙇‍♂️ About Me</h2>
+<h2>🧑🏻‍💻 About Me</h2>
 
 <h4>Android App Developer</h4>
 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 </p>
 
-<h2>💻 Algorithm</h2>
+<h2>🗝️ Algorithm</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks0509)](https://solved.ac/dpcks0509/)
 
