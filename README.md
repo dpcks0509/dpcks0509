@@ -17,7 +17,7 @@
 <h2>🗣️ Presentation</h2>
 
 - **[테코톡] 채드의 안드로이드 Service**  
-  [🎥 영상 보기](https://www.youtube.com/watch?v=GnQu_KW3suI&t=219s)
+  [🎥 영상 보기](https://www.youtube.com/watch?v=GnQu_KW3suI)
 
 <h2>📚 Tech Stack</h2>
 
