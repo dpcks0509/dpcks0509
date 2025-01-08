@@ -21,11 +21,11 @@
 **DI**
 : Hilt
 
-**Networking**
+**Network**
 : Retrofit, OkHttp
 
 **Asynchronous**
-: Coroutines
+: Coroutine
 
 **JetPack**
 : LiveData, ViewModel, DataBinding
