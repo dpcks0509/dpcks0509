@@ -10,15 +10,6 @@
 - **24.02 ~ 24.11 - '우아한테크코스' Android 6기**  
 - **22.08 ~ 22.12 - IT 프로젝트 동아리 'APPTIVE' 17기**
 
-<h2>🏆 Award</h2>
-
-- **부산대학교 캡스톤디자인(졸업과제) 동상 🥉**
-
-<h2>🗣️ Presentation</h2>
-
-- **[10분 테코톡] 채드의 안드로이드 Service**  
-  [🎥 영상 보기](https://www.youtube.com/watch?v=GnQu_KW3suI)
-
 <h2>📚 Tech Stack</h2>
 
 **Language**
@@ -38,6 +29,15 @@
 
 **JetPack**
 : LiveData, ViewModel, DataBinding
+
+<h2>🏆 Award</h2>
+
+- **부산대학교 캡스톤디자인(졸업과제) 동상 🥉**
+
+<h2>🗣️ Presentation</h2>
+
+- **[10분 테코톡] 채드의 안드로이드 Service**  
+  [🎥 영상 보기](https://www.youtube.com/watch?v=GnQu_KW3suI)
 
 <h2>🎬 Project</h2>
 
