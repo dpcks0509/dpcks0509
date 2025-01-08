@@ -6,9 +6,9 @@
 
 <h2>💪 Activity</h2>
 
-- **2020.03 ~ 2025.08 (졸업 예정) - 부산대학교 정보컴퓨터공학부**
-- **2024.02 ~ 2024.11 - '우아한테크코스' Android 6기**  
-- **2022.08 ~ 2022.12 - IT 프로젝트 동아리 'APPTIVE' 17기**
+- **20.03 ~ 25.08 - 부산대학교 정보컴퓨터공학부**
+- **24.02 ~ 24.11 - '우아한테크코스' Android 6기**  
+- **22.08 ~ 22.12 - IT 프로젝트 동아리 'APPTIVE' 17기**
 
 <h2>🏆 Award</h2>
 
@@ -21,27 +21,23 @@
 
 <h2>📚 Tech Stack</h2>
 
-### Develop
+**Language**
+: Kotlin
 
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
-</p>
+**Architecture**
+: MVVM, MVC
 
-### Tool
+**DI**
+: Hilt
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">  
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-</p>
+**Networking**
+: Retrofit
 
-<h2>🗝️ Algorithm</h2>
+**Asynchronous**
+: Coroutines
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks0509)](https://solved.ac/dpcks0509/)
+**JetPack**
+: LiveData, ViewModel, DataBinding
 
 <h2>🎬 Project</h2>
 
@@ -51,9 +47,6 @@
 <h6>
     <a href="https://www.notion.so/15657846cad6808c85b9d95908be76ed"target="_self">🧅 양파마켓 : 온라인 중고거래의 문제점을 블록체인을 통해 개선한 중고거래 플랫폼</a> 
 </h6>
-<h6>
-    <a href="https://www.notion.so/Fruitable-15657846cad680f087afcaab5356524d"target="_self">🌱 Fruitable : 농부와 구매자를 직접 연결하는 신선한 농산물 온라인 장터</a> 
-</h6>
 
 <h2>🔍 More about me</h2>
 
@@ -61,5 +54,3 @@
   <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@dpcks0509" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://www.notion.so/14457846cad680a5a98afd4824e54398" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
