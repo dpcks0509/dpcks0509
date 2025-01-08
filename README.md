@@ -22,7 +22,7 @@
 : Hilt
 
 **Network**
-: Retrofit, OkHttp
+: Retrofit
 
 **Asynchronous**
 : Coroutine
