@@ -31,7 +31,7 @@
 : Hilt
 
 **Networking**
-: Retrofit
+: Retrofit, OkHttp
 
 **Asynchronous**
 : Coroutines
