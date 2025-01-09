@@ -42,10 +42,10 @@
 <h2>🎬 Project</h2>
 
 <h6>
-    <a href="https://www.notion.so/15657846cad680828561c41f6a23c772"target="_self">🐶 반갑개 : 반려견 사회화 장려 및 행복을 위한 친구찾기 서비스</a> 
+    <a href="https://glaze-mustang-7cf.notion.site/15657846cad680828561c41f6a23c772"target="_self">🐶 반갑개 : 반려견 사회화 장려 및 행복을 위한 친구찾기 서비스</a> 
 </h6>
 <h6>
-    <a href="https://www.notion.so/15657846cad6808c85b9d95908be76ed"target="_self">🧅 양파마켓 : 온라인 중고거래의 문제점을 블록체인을 통해 개선한 중고거래 플랫폼</a> 
+    <a href="https://glaze-mustang-7cf.notion.site/15657846cad6808c85b9d95908be76ed"target="_self">🧅 양파마켓 : 온라인 중고거래의 문제점을 블록체인을 통해 개선한 중고거래 플랫폼</a> 
 </h6>
 
 <h2>🔍 More about me</h2>
