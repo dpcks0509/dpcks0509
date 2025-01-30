@@ -28,7 +28,7 @@
 : Coroutine
 
 **JetPack**
-: LiveData, ViewModel, DataBinding
+: LiveData, ViewModel, ViewBinding, DataBinding
 
 <h2>🏆 Award</h2>
 
