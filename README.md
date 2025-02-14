@@ -16,7 +16,7 @@
 : Kotlin
 
 **Architecture**
-: MVVM, MVC
+: MVVM, MVC, Clean Architecture
 
 **DI**
 : Hilt
