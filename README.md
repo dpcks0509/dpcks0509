@@ -7,6 +7,7 @@
 <h2>💪 Activity</h2>
 
 - **2020.03 ~ 2025.08 - 부산대학교 정보컴퓨터공학부**
+- **2025.03 ~ 2025.05 - '강남앤인코누스' 현장실습**
 - **2024.02 ~ 2024.11 - '우아한테크코스' Android 6기**  
 - **2022.08 ~ 2022.12 - IT 프로젝트 동아리 'APPTIVE' 17기**
 
@@ -16,16 +17,16 @@
 : Kotlin
 
 **Architecture**
-: MVVM, MVC, Clean Architecture
+: MVVM, Clean Architecture
+
+**Asynchronous**
+: Coroutines, Flow
 
 **DI**
 : Hilt
 
 **Network**
 : Retrofit
-
-**Asynchronous**
-: Coroutine
 
 **JetPack**
 : LiveData, ViewModel, ViewBinding, DataBinding
