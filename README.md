@@ -1,6 +1,6 @@
 <h2>🧑🏻‍💻 About Me</h2>
 
-<h4>Android App Developer</h4>
+<h3>Android App Developer</h3>
 
 <h4>사용자 중심의 문제 해결에 열정을 가진 개발자, 박예찬입니다! 👋</h4>
 
