@@ -28,6 +28,9 @@
 **Network**
 : Retrofit
 
+**Background**
+: Service, WorkManager
+
 **JetPack**
 : LiveData, ViewModel, ViewBinding, DataBinding
 
