@@ -25,9 +25,6 @@
 **DI**
 : Hilt
 
-**Network**
-: Retrofit
-
 **Background**
 : Service, WorkManager
 
