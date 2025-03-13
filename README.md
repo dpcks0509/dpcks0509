@@ -17,7 +17,7 @@
 : Kotlin
 
 **Architecture**
-: MVVM, Clean Architecture
+: MVVM, MVI, Clean Architecture
 
 **Asynchronous**
 : Coroutines, Flow
