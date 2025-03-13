@@ -29,7 +29,7 @@
 : Service, WorkManager
 
 **JetPack**
-: LiveData, ViewModel, ViewBinding, DataBinding
+: Compose, LiveData, ViewModel, Navigation, ViewBinding, DataBinding
 
 <h2>🏆 Award</h2>
 
