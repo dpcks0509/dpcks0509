@@ -16,20 +16,26 @@
 **Language**
 : Kotlin, Java
 
+**Pattern**
+: MVVM, MVI, MVC
+
 **Architecture**
-: MVVM, MVI, MVC, Clean Architecture
+: Clean Architecture, App Architecture
 
 **Asynchronous**
 : Coroutines, Flow
 
 **DI**
-: Hilt
+: Hilt, Koin
+
+**Network**
+: Retrofit, OkHttp
 
 **Background**
 : Service, WorkManager
 
 **JetPack**
-: Compose, LiveData, ViewModel, Navigation, ViewBinding, DataBinding
+: Compose, Navigation, LiveData, ViewModel, ViewBinding, DataBinding
 
 <h2>🏆 Award</h2>
 
