@@ -25,7 +25,7 @@
 **Asynchronous**
 : Coroutines, Flow
 
-**DI**
+**Dependency Injection**
 : Hilt, Koin
 
 **Network**
@@ -33,6 +33,9 @@
 
 **Background**
 : Service, WorkManager
+
+**Local Database**
+: Room, DataStroe, SharedPreferences
 
 **JetPack**
 : Compose, Navigation, ViewModel, LiveData, ViewBinding, DataBinding
