@@ -14,10 +14,10 @@
 <h2>📚 Tech Stack</h2>
 
 **Language**
-: Kotlin
+: Kotlin, Java
 
 **Architecture**
-: MVVM, MVI, Clean Architecture
+: MVVM, MVI, MVC, Clean Architecture
 
 **Asynchronous**
 : Coroutines, Flow
