@@ -22,6 +22,9 @@
 **Architecture**
 : Clean Architecture, App Architecture
 
+**JetPack**
+: Compose, Navigation, ViewModel, LiveData, ViewBinding, DataBinding
+
 **Asynchronous**
 : Coroutines, Flow
 
@@ -37,8 +40,8 @@
 **Local Database**
 : Room, DataStroe, SharedPreferences
 
-**JetPack**
-: Compose, Navigation, ViewModel, LiveData, ViewBinding, DataBinding
+**Image Loader**
+: Glide, Coil
 
 <h2>🏆 Award</h2>
 
