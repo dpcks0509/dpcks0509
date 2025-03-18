@@ -40,9 +40,6 @@
 **Local Data Storage**
 : Room, DataStroe, SharedPreferences
 
-**Image Loader**
-: Glide, Coil
-
 <h2>🏆 Award</h2>
 
 - **부산대학교 캡스톤디자인(졸업과제) 동상 🥉**
