@@ -31,13 +31,13 @@
 **Dependency Injection**
 : Hilt, Koin
 
-**Network**
+**Networking**
 : Retrofit, OkHttp
 
-**Background**
+**Background Work**
 : Service, WorkManager
 
-**Local Database**
+**Local Data Storage**
 : Room, DataStroe, SharedPreferences
 
 **Image Loader**
