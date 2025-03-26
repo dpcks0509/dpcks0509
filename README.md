@@ -52,6 +52,9 @@
 <h2>🎬 Project</h2>
 
 <h6>
+    <a href="https://github.com/TeamDATEROAD/DATEROAD-AOS"target="_self">💙 데이트로드 : 커플들이 직접 공유하는 데이트 코스</a> 
+</h6>
+<h6>
     <a href="https://glaze-mustang-7cf.notion.site/15657846cad680828561c41f6a23c772"target="_self">🐶 반갑개 : 반려견 사회화 장려 및 행복을 위한 친구찾기 서비스</a> 
 </h6>
 <h6>
