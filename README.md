@@ -20,7 +20,7 @@
 : MVVM, MVI, MVC
 
 **Architecture**
-: Clean Architecture, App Architecture
+: Clean Architecture, Google Recommended Architecture
 
 **JetPack**
 : Compose, Navigation, ViewModel, LiveData, ViewBinding, DataBinding
