@@ -39,9 +39,6 @@
 **Background Work**
 : Service, WorkManager
 
-**Local Data Storage**
-: Room, DataStroe, SharedPreferences
-
 <h2>🏆 Award</h2>
 
 - **부산대학교 캡스톤디자인(졸업과제) 동상 🥉**
