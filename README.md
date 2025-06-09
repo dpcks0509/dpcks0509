@@ -19,7 +19,7 @@
 : Kotlin, Java
 
 **Pattern**
-: MVVM, MVI, MVC
+: MVI, MVVM, MVC
 
 **Architecture**
 : Clean Architecture, App Architecture
