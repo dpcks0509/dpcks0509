@@ -62,10 +62,3 @@
 <h6>
     <a href="https://www.notion.so/Fruitable-15657846cad680f087afcaab5356524d"target="_self">🌱 Fruitable : 농부와 구매자를 직접 연결하는 신선한 농산물 온라인 장터</a> 
 </h6>
-
-<h2>🔍 More about me</h2>
-
-<a href="mailto:dpcks0509@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://velog.io/@dpcks0509" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
