@@ -4,7 +4,6 @@
 
 <h2>💼 Work Experience</h2>
 
-- **2025.06 ~ ing - 슈퍼진 Android Developer**
 - **2025.03 ~ 2025.05 - 강남앤인코누스 현장실습(인턴) Android Developer**
 
 <h2>💪 Activity</h2>
@@ -39,9 +38,16 @@
 **Background Work**
 : Service, WorkManager
 
+**Local Data Storage**
+: Room, DataStore, SharedPreferences
+
+<h2>✍️ Certification</h2>
+
+- **정보처리기사** `2025.06.13`
+
 <h2>🏆 Award</h2>
 
-- **부산대학교 캡스톤디자인(졸업과제) 동상 🥉**
+- **부산대학교 캡스톤디자인(졸업과제) 동상 🥉** `2023.11.03`
 
 <h2>🗣️ Presentation</h2>
 
