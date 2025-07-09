@@ -52,7 +52,7 @@
 <h2>🗣️ Presentation</h2>
 
 - **[10분 테코톡] 채드의 안드로이드 Service**  
-  [🎥 영상 보기](https://www.youtube.com/watch?v=GnQu_KW3suI)
+  [🎥 영상 보기](https://www.youtube.com/watch?v=GnQu_KW3suI) `2024.09.19`
 
 <h2>🎬 Project</h2>
 
