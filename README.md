@@ -33,14 +33,8 @@
 **Dependency Injection**
 : Hilt, Koin
 
-**Networking**
-: Retrofit, OkHttp
-
 **Background Work**
 : Service, WorkManager
-
-**Local Data Storage**
-: Room, DataStore, SharedPreferences
 
 <h2>✍️ Certification</h2>
 
