@@ -24,14 +24,14 @@
 **Architecture**
 : Clean Architecture, App Architecture
 
-**JetPack**
-: Compose, Navigation, ViewModel, LiveData, ViewBinding, DataBinding
-
 **Asynchronous**
 : Coroutines, Flow
 
 **Dependency Injection**
 : Hilt, Koin
+
+**JetPack**
+: Compose, Navigation, ViewModel, LiveData, ViewBinding, DataBinding
 
 **Background Work**
 : Service, WorkManager
