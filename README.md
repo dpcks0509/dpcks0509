@@ -59,6 +59,3 @@
 <h6>
     <a href="https://glaze-mustang-7cf.notion.site/15657846cad6808c85b9d95908be76ed" target="_self">🧅 양파마켓 : 온라인 중고거래의 문제점을 블록체인을 통해 개선한 중고거래 플랫폼</a> 
 </h6>
-<h6>
-    <a href="https://www.notion.so/Fruitable-15657846cad680f087afcaab5356524d" target="_self">🌱 Fruitable : 농부와 구매자를 직접 연결하는 신선한 농산물 온라인 장터</a> 
-</h6>
