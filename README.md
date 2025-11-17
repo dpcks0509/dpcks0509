@@ -5,7 +5,8 @@
 <h2>💼 Work Experience</h2>
 
 - `2025.06 ~ ing` - **슈퍼진 Android Developer**
-- `2025.03 ~ 2025.05` - **강남앤인코누스 현장실습(인턴) Android Developer**
+- `2025.03 ~ 2025.05` - **강남앤인코누스 Android Developer (Intern)**
+
 
 <h2>💪 Activity</h2>
 
