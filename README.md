@@ -15,23 +15,23 @@
 
 <h2>📚 Tech Stack</h2>
 
-**Language**
+- **Language**
 : Kotlin, Java
 
-**Pattern**
+- **Pattern**
 : MVI, MVVM, MVC
 
-**Architecture**
+- **Architecture**
 : Clean Architecture, App Architecture
 
-**Asynchronous**
+- **Asynchronous**
 : Coroutines, Flow
 
-**Dependency Injection**
+- **Dependency Injection**
 : Hilt, Koin
 
-**JetPack**
+- **JetPack**
 : Compose, Navigation, ViewModel, LiveData, DataBinding
 
-**Background Work**
+- **Background Work**
 : Service, AlarmManager, WorkManager
