@@ -1,6 +1,6 @@
 <h3>Work Experience</h3>
 
-- `2025.06 ~ present` - 슈퍼진, Android Developer
+- `2025.06 ~ Present` - 슈퍼진, Android Developer
 - `2025.03 ~ 2025.05` - 강남앤인코누스, Android Developer Intern
 
 
