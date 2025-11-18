@@ -10,25 +10,22 @@
 - `2024.02 ~ 2024.11` - 우아한테크코스 Android 6기
 - `2022.08 ~ 2022.12` - IT 프로젝트 동아리 APPTIVE 17
 
-<h3>Skills</h3>
+<h3>Technical Skills</h3>
 
-- **Language**
-: Kotlin, Java
+- **Languages**
+: Kotlin
 
-- **Pattern**
-: MVI, MVVM, MVC
+- **Architectures & Patterns**
+: Clean Architecture, MVI, MVVM
 
-- **Architecture**
-: Clean Architecture, App Architecture
-
-- **Asynchronous**
+- **Asynchronous Programming**
 : Coroutines, Flow
 
 - **Dependency Injection**
-: Hilt, Koin
+: Hilt
 
-- **JetPack**
-: Compose, Navigation, ViewModel, LiveData, DataBinding
+- **Jetpack Libraries**
+: Compose, Navigation, ViewModel, LiveData
 
 - **Background Work**
 : Service, AlarmManager, WorkManager
