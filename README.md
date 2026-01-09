@@ -25,7 +25,7 @@
 : Hilt
 
 - **Jetpack Libraries**
-: Compose, Navigation, ViewModel, LiveData
+: Compose, Navigation, ViewModel, LiveData, DataBinding
 
 - **Background Work**
 : Service, AlarmManager, WorkManager
