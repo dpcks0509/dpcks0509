@@ -12,6 +12,6 @@
 
 <h3>Skills</h3>
 
-- **Language** - `Kotlin`
-- **Architecture** - `MVI`, `MVVM`, `Clean Architecture`
-- **Android** - `Jetpack Compose`, `Coroutines`, `Flow`, `Hilt`
+- **Language** : `Kotlin`
+- **Architecture** : `MVI`, `MVVM`, `Clean Architecture`
+- **Android** : `Jetpack Compose`, `Coroutines`, `Flow`, `Hilt`
