@@ -1,7 +1,7 @@
 <h3>Work Experience</h3>
 
 - `2025.06 ~ Present` - 슈퍼진, Android Developer
-- `2025.03 ~ 2025.05` - 강남앤인코누스, Android Developer Intern
+- `2025.03 ~ 2025.05` - 강남앤인코누스, Android Developer (Intern)
 
 
 <h3>Education & Activities</h3>
@@ -14,4 +14,4 @@
 
 - `Kotlin`, `Java`
 - `MVI`, `MVVM`, `Clean Architecture`
-- `Coroutines`, `Flow`, `Hilt`, `Jetpack Compose`, `DataBinding`
+- `Jetpack Compose`, `Coroutines`, `Flow`, `Hilt`
