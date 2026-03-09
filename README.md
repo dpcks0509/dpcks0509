@@ -13,5 +13,5 @@
 <h3>Skills</h3>
 
 - `Kotlin`, `Java`
-- `MVI`, `MVVM`, `Clean Architecture`
-- `Jetpack Compose`, `Coroutines`, `Flow`, `Hilt`
+- `MVI`, `MVVM`, `Clean Architecture`, `Multi Module`
+- `Jetpack Compose`, `Coroutines`, `Flow`, `Hilt`, `Retrofit`
