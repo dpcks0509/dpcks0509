@@ -4,14 +4,14 @@
 - `2025.03 ~ 2025.05` - 강남앤인코누스, Android Developer (Intern)
 
 
-<h3>Education & Activities</h3>
+<h3>Education & Activity</h3>
 
 - `2022.03 ~ 2025.08` - 부산대학교, 정보컴퓨터공학부
 - `2024.02 ~ 2024.11` - 우아한테크코스, Android 6기
 - `2022.08 ~ 2022.12` - APPTIVE, IT 프로젝트 동아리 17기
 
-<h3>Skills</h3>
+<h3>Skill</h3>
 
 - `Kotlin`, `Java`
-- `MVI`, `MVVM`, `Clean Architecture`, `Multi Module`
+- `MVI`, `MVVM`, `Clean Architecture`, `Multi-Module`
 - `Jetpack Compose`, `Coroutines`, `Flow`, `Hilt`, `Retrofit`
