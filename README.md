@@ -14,4 +14,4 @@
 
 - `Kotlin`, `Java`
 - `MVI`, `MVVM`, `Clean Architecture`, `Multi-Module`
-- `Jetpack Compose`, `Coroutines`, `Flow`, `Hilt`, `Retrofit`
+- `Jetpack Compose`, `Coroutine`, `Flow`, `Hilt`, `Retrofit`
